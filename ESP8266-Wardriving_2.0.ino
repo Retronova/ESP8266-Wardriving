@@ -23,7 +23,6 @@ char * log_col_names[LOG_COLUMN_COUNT] = {
 
 TinyGPSPlus tinyGPS;
 SoftwareSerial ss(D3, D4); // RX, TX
-//SoftwareSerial ss(0,2);
 
 void setup() {
   Serial.begin(115200);
