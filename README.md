@@ -10,7 +10,7 @@ Resource for Wardriving Project on the ESP8266
 5. SD Card 16GB - Data Log
 6. Powerbank - Power Supply
 
-SD Reader Module
+# SD Reader Module
 
 SD Reader Pin	| ESP8266 GPIO | D1 Mini Pin
 ------------- | ------------ | ------------  
@@ -19,7 +19,7 @@ MOSI |	GPIO13 | D7
 SCK |	GPIO14 | D5
 CS | GPIO15 |	D8
 
-GPS Module
+# GPS Module
 
 GPS Pin |	ESP8266 GPIO | D1 Mini Pin
 ------- | ------------ | -----------
