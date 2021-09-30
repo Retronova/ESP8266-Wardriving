@@ -9,5 +9,3 @@ Resource for Wardriving Project on the ESP8266
 4. WeMos D1 Mini micro SD Shield / SD Card Adapter
 5. SD Card 16GB - Data Log
 6. Powerbank - Power Supply
-
-3D Printed Case
