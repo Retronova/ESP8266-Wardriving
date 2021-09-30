@@ -1,2 +1,2 @@
 # ESP8266-Wardriving
-Resources for Wardriving on the ESP8266
+Resource for Wardriving Project on the ESP8266
