@@ -10,6 +10,8 @@ Wardriving Project on the ESP8266
 5. SD Card 16GB - Data Log
 6. Powerbank - Power Supply
 
+optional 3D printed Case
+
 # SD Reader Module
 
 SD Reader Pin	| ESP8266 GPIO | D1 Mini Pin
