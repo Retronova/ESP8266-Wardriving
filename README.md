@@ -13,6 +13,7 @@ Resource for Wardriving Project on the ESP8266
 SD Reader Module
 
 SD Reader | Pin	| ESP8266 GPIO | D1 Mini Pin
+--------- | --- | ------------ | -----------  
 MISO |	GPIO12 | D6
 MOSI |	GPIO13 | D7
 SCK |	GPIO14 | D5
@@ -21,5 +22,6 @@ CS | GPIO15 |	D8
 GPS Module
 
 GPS Pin |	ESP8266 GPIO | D1 Mini Pin
+------- | ------------ | -----------
 TX | GPIO2 | D4
 RX | GPIO0 | D3
